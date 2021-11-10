@@ -1,0 +1,53 @@
+.profile {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .div1 {
+    display: inline;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  .profilename {
+    display: inline;
+    float: left;
+    margin-left: 20px;
+    font-size: 17px;
+  }
+  
+  .categories {
+    display: inline;
+    float: right;
+    margin-right: 50px;
+    font-size: 17px;
+    text-align: right;
+  }
+  .article,
+  .div3 {
+    float: left;
+    margin-left: 50px;
+  }
+  .div2 {
+    font-size: 17px;
+  }
+  
+  .div4,
+  .div6 {
+    float: right;
+    margin-right: 10px;
+  }
+  
+  .div5 {
+    margin-right: 3%;
+    display: flex;
+  }
+
+  .div6 {
+      display: flex;
+      padding: 10px;
+  }
+  .div9 {
+      width: 400;
+      height: 195;
+  }
